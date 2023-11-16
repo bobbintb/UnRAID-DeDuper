@@ -8,7 +8,7 @@
 <!ENTITY launch    "Settings/Dedupe">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&author;/&repo;/release/artifacts/&name;.plg">
 <!ENTITY source    "/boot/config/plugins/&name;/&name;">
-<!ENTITY MD5       "6aa6dd7d5cb49e76675d9522b2c8ec57">
+<!ENTITY MD5       "77381680cc603132de4311ee8150b84d">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" icon="fa-search-minus" min="6.1.9">
